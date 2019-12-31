@@ -10,7 +10,7 @@ import pyqrcode
 # In[7]:
 
 
-mydata =pyqrcode.create("https://github.com/redashu/pywinter2019/blob/master/ashu_sender.py")
+mydata =pyqrcode.create("https://github.com/Priyanshasharma520/Python_AI_3/edit/master/pyqrcode_1.py")
 mydata.svg("github_1.svg",scale=15)
 
 
